@@ -5,8 +5,6 @@ All female model files can be found in the folder 'female'
 
 All male model files can be found in the folder 'male'
 
-Experimental data, along with references, is contained in the .xlsx files.
-
 # Additional files
 
 helper_functions include .m functions to select a colormap and generate figures
